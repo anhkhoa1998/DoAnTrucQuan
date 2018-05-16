@@ -1,0 +1,10 @@
+C:\Users\BiKen\Downloads\CHATWINFORM-master\CHATWINFORM-master\Server\bin\Debug\Server.exe.config
+C:\Users\BiKen\Downloads\CHATWINFORM-master\CHATWINFORM-master\Server\bin\Debug\Server.exe
+C:\Users\BiKen\Downloads\CHATWINFORM-master\CHATWINFORM-master\Server\bin\Debug\Server.pdb
+C:\Users\BiKen\Downloads\CHATWINFORM-master\CHATWINFORM-master\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\BiKen\Downloads\CHATWINFORM-master\CHATWINFORM-master\Server\obj\Debug\Server.Server.resources
+C:\Users\BiKen\Downloads\CHATWINFORM-master\CHATWINFORM-master\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\BiKen\Downloads\CHATWINFORM-master\CHATWINFORM-master\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\BiKen\Downloads\CHATWINFORM-master\CHATWINFORM-master\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\BiKen\Downloads\CHATWINFORM-master\CHATWINFORM-master\Server\obj\Debug\Server.exe
+C:\Users\BiKen\Downloads\CHATWINFORM-master\CHATWINFORM-master\Server\obj\Debug\Server.pdb

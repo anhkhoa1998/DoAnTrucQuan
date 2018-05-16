@@ -1,0 +1,10 @@
+C:\Users\BiKen\Downloads\CHATWINFORM-master\CHATWINFORM-master\Client\bin\Debug\Client.exe.config
+C:\Users\BiKen\Downloads\CHATWINFORM-master\CHATWINFORM-master\Client\bin\Debug\Client.exe
+C:\Users\BiKen\Downloads\CHATWINFORM-master\CHATWINFORM-master\Client\bin\Debug\Client.pdb
+C:\Users\BiKen\Downloads\CHATWINFORM-master\CHATWINFORM-master\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\BiKen\Downloads\CHATWINFORM-master\CHATWINFORM-master\Client\obj\Debug\Client.Client.resources
+C:\Users\BiKen\Downloads\CHATWINFORM-master\CHATWINFORM-master\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\BiKen\Downloads\CHATWINFORM-master\CHATWINFORM-master\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\BiKen\Downloads\CHATWINFORM-master\CHATWINFORM-master\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\BiKen\Downloads\CHATWINFORM-master\CHATWINFORM-master\Client\obj\Debug\Client.exe
+C:\Users\BiKen\Downloads\CHATWINFORM-master\CHATWINFORM-master\Client\obj\Debug\Client.pdb
